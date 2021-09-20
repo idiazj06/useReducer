@@ -1,7 +1,7 @@
 {
   "name": "reducer",
   "version": "0.1.0",
-  "homepage": "https://Garcia091.github.io/F4-useReducer",
+  "homepage": "https://idiazj06.github.io/useReducer",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
